@@ -8,9 +8,11 @@ Eric Pattmon, Thomas Rambo, Eason Zou, Ebenezer Ajisafe, Terrell Beasley, Juan A
 2) **OPENAI DOES NOT ALLOW KEYS TO BE SHARED ON GITHUB, THUS THE OPENAI KEY YOU SEE IN THE CODE IS DISABLED DUE TO OPENAI POLICIES**
 3) **IN ORDER TO REPLACE THE OPENAI API KEY GO TO THE FOLLOWING AND PUT YOUR OWN...**
 4) https://platform.openai.com/settings/organization/api-keys
-5)   Line 85 in serverr.js, replace the key in the quotes
-6)   the whole key in .env file
-7)   The developers are using gpt-4o-mini, depending on the version you are able to get you must change this code accoringly (gpt-3.5, etc)
+6)   Line 85 in serverr.js, replace the key in the quotes
+![image](https://github.com/user-attachments/assets/165e822d-13df-4886-9551-f8492c73f74f)
+
+8)   the whole key in .env file
+9)   The developers are using gpt-4o-mini, depending on the version you are able to get you must change this code accoringly (gpt-3.5, etc)
    
    ![image](https://github.com/user-attachments/assets/44499f0c-2a64-406d-a77e-350b7e9e35a7)
 
